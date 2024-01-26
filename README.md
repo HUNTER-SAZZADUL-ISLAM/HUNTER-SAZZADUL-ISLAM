@@ -1,6 +1,4 @@
-![](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/295767448_5038212976302132_532312691133536794_n.jpg?stp=dst-jpg_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=783fdb&_nc_ohc=mjs2RD3gpjEAX_7_l1U&_nc_oc=AQn3O7cjMC3iPd4Gpj5q9ClWt0J87W0eXW-tpszJIjXOixy-6QB6Lrsx86yy7gtZoa4&_nc_ht=scontent.fdac14-1.fna&oh=00_AfA5VxPaflCBIYiO_KiyO2Tv2_eFBVyWfVfcdlKl51G5dg&oe=65B9B9F6)
-
-### Hi there 👋, my name is Md Sazzadul Islam
+### Hi there 👋,I am Md Sazzadul Islam
 
 
 👋 Greetings! I'm Sazzadul Islam , a budding backend web developer eager to make waves in the digital realm. With a solid grasp of PHP, Java, and C, I'm on a journey to transform my passion for coding into seamless web experiences.
